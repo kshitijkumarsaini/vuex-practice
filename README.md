@@ -1,4 +1,5 @@
 # learn-vuex
+Just a basic vue Project to learn state management in VUE JS app by using VUEX.
 
 ## Project setup
 ```
